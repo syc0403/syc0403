@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://github-readme-stats.vercel.app/api?username=syc0403&theme=dark)
+
 
 <!--
 **syc0403/syc0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
